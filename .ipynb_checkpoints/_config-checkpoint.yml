@@ -1,0 +1,14 @@
+title: James Giannoni
+description: Professional Development Portfolio — Web Scraper Optimization Project
+theme: minima
+url: "https://jgiannoni1.github.io"
+
+header_pages:
+  - resume.md
+  - proposal.md
+  - weekly.md
+
+collections:
+  weekly:
+    output: true
+    permalink: /weekly/:name/
