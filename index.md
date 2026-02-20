@@ -3,13 +3,11 @@ layout: page
 title: Home
 ---
 
-## James Giannoni
-
-Welcome — this is my Professional Development portfolio site.
+Welcome to my portfolio site.
 
 ### What you’ll find here
-- **Resume:** a resume-style overview of my background and skills.
+- **Resume:** a resume-style overview of my background and skills as well as a pdf download.
 - **Project Proposal:** my semester project plan: *Web Scraper Optimization*.
-- **Weekly Posts:** short weekly updates documenting progress and reflection.
+- **Weekly Posts:** short weekly updates documenting my progress.
 
-Use the navigation links above to view each section.
+Use the navigation links at the top to view each section.
